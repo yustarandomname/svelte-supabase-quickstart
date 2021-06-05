@@ -20,6 +20,7 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
+    "@rollup/plugin-json": "^4.1.0",
     "@supabase/supabase-js": "^1.13.1",
     "process": "^0.11.10",
     "sirv-cli": "^1.0.0",
